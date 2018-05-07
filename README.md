@@ -6,10 +6,10 @@ Pretend Like A Hollywood Hacker. this tool that runs a script turning your Linux
 
 Open Terminal
 
-*git clone https://github.com/thehackingsage/fakehacking.git
-*cd fakehacking-master
-*sudo chmod +x install.sh
-*sudo ./install.sh
+```git clone https://github.com/thehackingsage/fakehacking.git```
+```*cd fakehacking-master```
+```*sudo chmod +x install.sh```
+```*sudo ./install.sh```
 
 Press Enter to Confirm Installation..
 
